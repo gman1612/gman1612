@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gman1612
-- 👀 I’m interested in full-stack development
+- 👀 I’m interested in web-development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on all sorts of projects
 - 📫 How to reach me ---
